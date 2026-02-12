@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+.env
+
+# TFC Enum Script
+tfc_enum_output.txt
+tfc_enum_resume.log
+states/
+tokens.txt
+dummy_tokens.txt
